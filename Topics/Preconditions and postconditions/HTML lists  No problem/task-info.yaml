@@ -1,0 +1,17 @@
+type: code
+custom_name: HTML lists? No problem!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    string = input()
+    # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14256#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 07 Aug 2022 13:06:09 UTC
+record: -1

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: list of indexes
+- text: an integer
+- text: a string
+- text: list of strings
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15142#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 02 Aug 2022 09:34:34 UTC
+record: -1
+selected_options:
+- 3
